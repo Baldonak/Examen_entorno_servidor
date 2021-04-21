@@ -1,0 +1,4 @@
+id	item	stock
+1	Naranjas	4
+3	Leche	3
+4	Leche	10

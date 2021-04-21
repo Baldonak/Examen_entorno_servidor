@@ -1,0 +1,56 @@
+
+
+body {
+
+/*display: none;*/
+background-color:rgb(221, 235, 235);
+
+}
+
+.disponible {
+    color: green;
+    }
+    .no-disponible{
+    color: red;
+    }
+
+.tabla_resultado th {
+    color:white;
+    background: rgb(20, 15, 175);
+    border: rgb(76, 84, 85) 2px solid;
+    text-align: center;
+    padding: 6px;
+  }
+    
+.tabla_resultado tr {
+    background: rgb(203, 214, 214);
+    border: rgb(76, 84, 85) 2px solid;
+    text-align: center;
+    
+  }
+  
+/*Media Queries*/
+/* Large desktops and laptops */
+@media (min-width: 1200px) {
+
+}
+
+/* Landscape tablets and medium desktops */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+/* Portrait tablets and small desktops */
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+/* Landscape phones and portrait tablets */
+@media (max-width: 767px) {
+
+}
+
+/* Portrait phones and smaller */
+@media (max-width: 480px) {
+
+}
